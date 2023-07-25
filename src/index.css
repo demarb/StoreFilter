@@ -107,6 +107,7 @@ input, select{
 
 .product{
   display: flex;
+  border-bottom: 1px solid grey;
 }
 
 .prod-title{

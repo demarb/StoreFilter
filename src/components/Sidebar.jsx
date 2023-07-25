@@ -44,6 +44,7 @@ export default function Sidebar(){
                 Search:
                 <input value={search} onChange={handleSearchChange}></input>
             </label>
+            <i><small>Search is case sensitive</small></i>
 
             <br/>
             <br/>
