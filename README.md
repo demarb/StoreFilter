@@ -11,3 +11,7 @@ Search for products by name (case sensitive)
 
 ### API Used:
 https://fakestoreapi.com/
+
+### Preview: 
+![Preview Image](./preview.png)
+
